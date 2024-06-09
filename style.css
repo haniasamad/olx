@@ -1,0 +1,568 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    display: flex;
+}
+img{
+    height: 40px;
+    padding-top: 20px;
+    padding-left: 20px;
+    
+}
+.fa-car{
+
+    margin-top: 25px;
+    margin-left: 25px;
+    font-size: 23px;
+    background-color: #e2e2e2;
+    border-radius: 22px;
+    padding: 7px 7px;
+}
+p{
+    margin-top: -30px;
+    margin-left: 70px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.hover:hover{
+    color: blue;
+    cursor: pointer;
+}
+.fa-building{
+    margin-top: 25px;
+    margin-left: 20px;
+    font-size: 23px;
+    background-color: #e2e2e2;
+    border-radius: 22px;
+    padding: 7px 10px;
+    
+}
+.hover-2:hover{
+    color: blue;
+    cursor: pointer;
+}
+.input{
+
+    margin-top: 40px;
+    align-items: center;
+    border: 1px solid rgb(216, 211, 211);
+    width: 300px;
+    margin-left: 40px;
+    padding: 15px;
+}
+.fa-location-dot{
+    margin-top: 4px;
+    margin-left: 5px;
+    font-size: 20px;
+}
+p.a{
+    margin-left: 30px;
+    margin-top: -20px;
+    font-weight: 100;
+    color: gray;
+}
+.fa-angle-down{
+  margin-left: 270px;
+  font-size: 30px;
+  margin-top: -15px;
+    color: rgb(61, 60, 60);
+}
+.icon{
+    margin-top: -12px;
+}
+.input-1{
+    display: flex;
+    
+        width: 55%;
+    margin-left: 400px;
+}
+p.b{
+    margin-left: 20px;
+    margin-top: 12px;
+font-weight: 100;
+color: gray;
+}
+.fa-magnifying-glass{
+    margin-left: 600px;
+ border: 1px solid black;
+ padding:10px 10px;
+    font-size: 30px;
+    margin-top: -10px;
+    background-color: black;
+    color: white;
+    border-top-right-radius:5px ;
+}
+.head{
+    border: 1px solid rgb(216, 211, 211);
+    height: 52px;
+    margin-top: -55px;
+    border-top-right-radius:5px ;
+    border-bottom-right-radius:5px ;
+}
+.icon-1{
+    margin-top: -20px;
+    margin-left: -10px;
+}
+p.c{
+    margin-left: 1100px;
+    margin-top: -35px;
+    border-bottom:2px solid black ;
+    width: 55px;
+    font-family: "arial";
+    font-weight: 200;
+}
+button{
+    margin-left: 320px;
+   font-size: 20px; 
+	padding:9px 25px;
+	border-radius:23px;
+	background-color:white;
+	border-bottom:4px solid blue;
+	border-left:4px solid yellow;
+	border-right:4px solid blue;
+	border-top:4px solid  skyblue;
+    margin-top: 90px;
+
+}
+p.d{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.button{
+    margin-top: 50px;
+}
+img.img{
+    width: 97%;
+    height: 90%;
+    margin-top: 20px;
+}
+.all-img{
+    display: flex;
+    width: 97%;
+    justify-content: space-evenly;
+    
+    
+}
+img.a{
+    width: 100px;
+    height: 100px;
+}
+
+img.b{
+    width: 100px;
+    height: 100px;
+}
+img.c{
+    width: 100px;
+    height: 100px;
+}
+img.d{
+    width: 100px;
+    height: 100px;
+}
+img.e{
+    width: 100px;
+    height: 100px;
+}
+img.f{
+    width: 100px;
+    height: 100px;
+}
+img.g{
+    width: 100px;
+    height: 100px;
+}
+img.h{
+    width: 100px;
+    height: 100px;
+}
+img.i{
+    width: 100px;
+    height: 100px;
+}
+.all-p{
+
+    margin-top: 50px;
+    display: flex;
+    width: 100%;
+    
+    color: #292222;
+    
+
+    
+}
+p.e{
+    font-size: 15px;
+    font-family: "arial";
+    
+}
+
+p.f{
+    font-size: 15px;
+    font-family: "arial";
+    margin-left: 85px;
+}
+
+p.g{
+    font-size: 15px;
+    font-family: "arial";
+    margin-left: 92px;
+    line-height: 20px;
+}
+
+p.h{
+    font-size: 15px;
+    font-family: "arial";
+    margin-left: 50px;
+    line-height: 20px;
+}
+
+
+p.i{
+    font-size: 15px;
+    font-family: "arial";
+    margin-left: 46px;
+    line-height: 20px;
+}
+
+p.j{
+    font-size: 15px;
+    font-family: "arial";
+    
+}
+
+p.k{
+    font-size: 15px;
+    font-family: "arial";
+    margin-left: 90px;
+    line-height: 20px;
+}
+
+p.l{
+    font-size: 15px;
+    font-family: "arial";
+    
+}
+
+p.m{
+    font-size: 15px;
+    font-family: "arial";
+    margin-left: 100px;   
+}
+.img-all{
+    
+    display: flex;
+    width: 55%;
+    justify-content: space-evenly;
+    margin-top: 15px;
+}
+img.j{
+    height: 100px;
+    width: 100px;
+   
+}
+
+img.k{
+    height: 100px;
+    width: 100px;
+}
+
+img.l{
+    height: 100px;
+    width: 100px;
+}
+
+img.m{
+    height: 100px;
+    width: 100px;
+}
+
+img.n{
+    height: 100px;
+    width: 100px;
+    
+}
+.p-all{
+    display: flex;
+    margin-top: 40px;
+    
+}
+p.n{
+    margin-left: 70px;
+    font-size: 15px;
+    font-family: "arial";
+    color: #292222;
+}
+p.o{
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: "arial";
+    font-weight: bold;
+    word-spacing: 10px
+}
+.shop-section{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly ;
+    
+    height: 500px;
+}
+.box{
+    height: 350px;
+    width: 23%;
+    background-color: #fcf3f3;
+    padding: 20px 0px 15px;
+    margin-top: 50px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+img.img-14{
+    height: 170px;
+    margin-left: -20px;
+    width: 311px;
+    margin-top: -40px;
+    border-top-right-radius:5px ;
+    border-top-left-radius:5px ;
+}
+p.p{
+    margin-top: 15px;
+    margin-left: 10px;
+    font-style: oblique;
+    font-weight: 100;
+}
+.fa-heart{
+    margin-left: 270px;
+    font-size: 25px;
+}
+.icon{
+    margin-top: -25px;
+}
+p.q{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 15px;
+    font-family: "arial";
+    color: #292222;
+}
+
+p.r{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 100;
+    color: #292222;
+}
+
+p.s{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: 100;
+    color: #292222;
+}
+.p{
+margin-top: -20px;
+   display: flex;
+}
+p.t{
+    font-size: 30px;
+    letter-spacing: 3px;
+    font-style: normal;
+    margin-left: 25px;
+}
+p.u{
+    margin-left: 1100px;
+    margin-top: -20px;
+    color: blue;
+    font-weight: 100;
+}
+.fa-angle-right{
+    margin-top:-16px ;
+    margin-left: 10px;
+    color: blue;
+}
+.s{
+    display: flex;
+    margin-top: 50px;
+    width: 100%;
+    
+}
+p.v{
+    margin-left: 30px;
+    font-size: 30px;    
+}
+p.w{
+    margin-left: 930px;
+    color: blue;
+    font-weight: 100;
+}
+.icon-1{
+    margin-top: -25px;
+    margin-left: 7px;
+}
+.t{
+    display: flex;
+    
+}
+p.x{
+    margin-left: 30px;
+    font-size: 30px;
+}
+p.y{
+    margin-left: 1080px;
+    font-weight: 100;
+    color: blue;
+}
+.icon-2{
+    margin-top: -25px;
+}
+img.di{
+    width: 80%;
+    height: 200px;
+    margin-left: 100px;
+}
+.emg{
+    background-color:rgb(241, 236, 236) ;
+    margin-top: 20px;
+    display: flex;
+    border-bottom: 1px solid gray;
+}
+img.du{
+    width: 400px;
+    height: 200px;
+    margin-top:-19px  ;
+}
+h1{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+p.z{
+    margin-top: 90px;
+    margin-left: -280px;
+    font-family: "arial";
+    font-weight: 100;
+}
+img.duc{
+    height: 210px;
+    margin-left: -20px;
+    margin-top: -30px;
+   color: gray;
+   width: 70px;
+}
+p.ab{
+    margin-top: 60px;
+    font-size: 14px;
+    margin-left: 20px;
+    
+}
+.button{
+    display: flex;
+    margin-left: 870px;
+    margin-top: -130px;
+}
+.footer{
+    margin-top: 180px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 90%;
+        
+    
+}
+.para{
+    line-height: 50px;
+    margin-top: -130px;
+    font-family: "arial";
+}
+
+.para-1{
+    line-height: 50px;
+    margin-top: -130px;
+    
+}
+
+.para-2{
+    line-height: 50px;
+    margin-top: -130px;
+    
+}
+h1.as{
+    font-size: 14px;
+    font-family: "arial";
+}
+
+.para-3{
+    line-height: 50px;
+    margin-top: -130px;
+    
+}
+p.af{
+    font-weight: 100;
+    font-size: 15px;
+    
+}
+
+h1.az{
+    font-size: 15px;
+    font-family: "arial";
+    margin-left: 67px;
+    
+}
+P.te{
+    font-size: 13px;
+    margin-top: -80px;
+    word-spacing: 15px;
+    font-family: "arial";
+    margin-left: -50px;
+
+}
+img.pi{
+    margin-left: -120px;
+    margin-top: -85px;
+    height: 30px;
+}
+
+img.pe{
+    margin-left: -180px;
+    margin-top: -85px;
+    height: 30px;
+}
+
+img.pu{
+    margin-left: -180px;
+    margin-top: -85px;
+    height: 30px;
+}
+    
+img.pw{
+    margin-left: -180px;
+    margin-top: -85px;
+    height: 30px;
+}
+img.ue{
+    height:20px;
+    
+   
+}
+
+img.ui{
+    height:20px;
+    
+   
+}
+
+img.um{
+    height:20px;
+    
+   
+}
+.all-i{
+    margin-left: 1050px;
+    margin-top: -50px;
+}
